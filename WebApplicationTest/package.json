@@ -1,0 +1,31 @@
+{
+  "name": "angular2withvs2015",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/common": "~4.0.0",
+    "@angular/compiler": "~4.0.0",
+    "@angular/core": "^4.4.2",
+    "@angular/forms": "~4.0.0",
+    "@angular/http": "~4.0.0",
+    "@angular/platform-browser": "~4.0.0",
+    "@angular/platform-browser-dynamic": "~4.0.0",
+    "@angular/router": "~4.0.0",
+    "@angular/upgrade": "~4.0.0",
+    "bootstrap": "3.3.7",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.4.3",
+    "systemjs": "0.19.39",
+    "zone.js": "^0.6.25"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.2",
+    "@types/core-js": "^0.9.41",
+    "@types/node": "6.0.40",
+    "gulp": "3.9.1",
+    "gulp-tsc": "^1.2.5",
+    "gulp-typescript": "^3.1.2",
+    "rimraf": "^2.5.4",
+    "typescript": "^2.5.2"
+  }
+}
