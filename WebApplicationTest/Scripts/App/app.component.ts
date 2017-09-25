@@ -1,6 +1,6 @@
 ﻿import { Component } from '@angular/core';
 @Component({
     selector: 'my-app',
-    template: 'Demo...'
+    template: 'Demo !!!!!'
 })
 export class AppComponent { }
